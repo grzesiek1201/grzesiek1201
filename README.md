@@ -1,49 +1,48 @@
-# 👋 Cześć, jestem Grzegorz!
+# 👋 Hi, I'm Grzegorz!
 
-Jestem początkującym programistą Python z doświadczeniem w handlu i pracy z danymi.  
-Chcę łączyć moją znajomość procesów biznesowych z wiedzą techniczną w Pythonie, SQL i automatyzacji.  
-Szukam pierwszej pracy jako **Junior Python Developer** lub **Junior RPA/SQL Developer**.
+I'm a beginner Python developer with a background in sales and data-related work.  
+I aim to combine my knowledge of business processes with technical skills in Python, SQL, and automation.  
+I'm looking for my first job as a **Junior Python Developer** or **Junior RPA/SQL Developer**.
 
 ---
 
-## 🚀 Technologie i narzędzia, których używam:
+## 🚀 Technologies and Tools I Use:
 
-- 🐍 Python (Pandas, NumPy, requests, selenium, matplotlib, tkinter)
-- 🗄️ SQL (PostgreSQL, SQLite, MySQL)
-- ⚙️ Automatyzacja: web scraping, przetwarzanie danych, proste ETL
-- 🧪 Testowanie: pytest (podstawy)
-- 📊 Power BI, Excel (dla analiz)
+- 🐍 Python (`Pandas`, `NumPy`, `requests`, `selenium`, `matplotlib`, `tkinter`)
+- 🗄️ SQL (`PostgreSQL`, `SQLite`, `MySQL`)
+- ⚙️ Automation: web scraping, data processing, basic ETL
+- 🧪 Testing: `pytest` (basic knowledge)
+- 📊 Power BI, Excel (for data analysis)
 - 🛠️ Git, GitHub, PyCharm
 
 ---
 
-## 📂 Moje projekty:
+## 📂 My Projects:
 
-### 🔧
+### 🔧 
 
-
+**Tech Stack:** 
+**Status:** 
 
 ### 📊 
 
-
 ---
 
-## 📈 Aktualnie uczę się:
+## 📈 Currently Learning:
 
 - Django / Flask
-- Asynchroniczność w Pythonie
-- Docker (podstawy)
-- Głębsza praca z bazami danych
+- Asynchronous programming in Python
+- Docker (basics)
+- Working more deeply with databases
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
-- ✉️ Email: gzywicki@gmail.com 
-- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/grzegorz-%C5%BCywicki/)
+- ✉️ Email: gzywicki@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/grzegorz-żywicki](https://www.linkedin.com/in/grzegorz-%C5%BCywicki/)
 
 ---
 
-## 📌 Cel na 2025:
-**Znaleźć pierwszą pracę jako Junior Python Developer** i dalej rozwijać się w kierunku analizy danych, automatyzacji lub integracji systemów (API, RPA, SQL).
-
+## 📌 Goal for 2025:
+**To land my first job as a Junior Python Developer** and grow further in data analysis, automation, or system integration (API, RPA, SQL).

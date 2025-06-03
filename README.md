@@ -19,7 +19,7 @@ I'm looking for my first job as a **Junior Python Developer** or **Junior RPA/SQ
 
 ## 📂 My Projects:
 
-### 🔧 
+### 🔧 https://github.com/grzesiek1201/task_note_manager
 
 **Tech Stack:** 
 **Status:** 

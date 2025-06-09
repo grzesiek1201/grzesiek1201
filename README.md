@@ -1,48 +1,77 @@
-# 👋 Hi, I'm Grzegorz!
+👋 Hi, I'm Grzegorz!
+Junior Python Developer | Transforming business processes into automated solutions
+I'm a Python developer passionate about building practical applications that solve real-world problems. With a background in business operations, I bring a unique perspective to software development - understanding both the technical implementation and business value.
+🎯 Currently seeking my first role as a Junior Python Developer
 
-I'm a beginner Python developer with a background in sales and data-related work.  
-I aim to combine my knowledge of business processes with technical skills in Python, SQL, and automation.  
-I'm looking for my first job as a **Junior Python Developer**.
+🛠️ Tech Stack
+Languages & Databases
 
----
+🐍 Python | 🗄️ SQL (PostgreSQL, SQLite, MySQL)
 
-## 🚀 Technologies and Tools I Use:
+Web Development
 
-- 🐍 Python (`Pandas`, `NumPy`, `requests`, `selenium`, `matplotlib`, `tkinter`)
-- 🗄️ SQL (`PostgreSQL`, `SQLite`, `MySQL`)
-- ⚙️ Automation: web scraping, data processing, basic ETL
-- 🧪 Testing: `pytest` (basic knowledge)
-- 📊 Power BI, Excel (for data analysis)
-- 🛠️ Git, GitHub, PyCharm
+⚡ Flask, Django | 🌐 REST APIs | 🔐 User Authentication
 
----
+Data & Analysis
 
-## 📂 My Projects:
+📊 Pandas, NumPy, Matplotlib | 📈 Power BI, Excel
 
-### 🔧 https://github.com/grzesiek1201/task_note_manager
+Tools & DevOps
 
-**Tech Stack:** 
-**Status:** 
+🔧 Git, Docker | 🧪 pytest, unittest | 🖥️ PyCharm, VS Code
 
-### 📊 
+Automation
 
----
+🤖 Web scraping (Selenium, requests) | 📋 ETL processes
 
-## 📈 Currently Learning:
 
-- Django / Flask
-- Asynchronous programming in Python
-- Docker (basics)
-- Working more deeply with databases
+🚀 Featured Projects
+📝 Task & Note Manager
+Full-stack web application for productivity management
 
----
+Tech: Flask, PostgreSQL, SQLAlchemy, Bootstrap 5
+Features: User authentication, task prioritization, deadline tracking
+Architecture: MVC pattern with modular backend design
 
-## 📫 Contact
+💬 Client-Server Chat App
+Real-time messaging application with PostgreSQL backend
 
-- ✉️ Email: gzywicki@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/grzegorz-żywicki](https://www.linkedin.com/in/grzegorz-%C5%BCywicki/)
+Tech: Python sockets, threading, PostgreSQL, JSON
+Features: User registration, multi-client messaging, persistent storage
 
----
+🎯 Interactive Quiz Game
+Desktop quiz application with advanced game mechanics
 
-## 📌 Goal for 2025:
-**To land my first job as a Junior Python Developer** and grow further in data analysis, automation, or system integration (API, RPA, SQL).
+Tech: Tkinter, JSON, threading
+Features: Scoring system, lifelines, save/load functionality
+
+
+📈 Currently Learning
+
+FastAPI - Building modern, high-performance APIs
+Docker & CI/CD - Containerization and deployment automation
+AWS Cloud Services - Cloud computing fundamentals
+Advanced Testing - Test-driven development with pytest
+
+
+💼 Professional Background
+
+Business Operations Experience - Understanding of workflow optimization and process automation
+Data Analysis - Experience with business intelligence and reporting
+Problem-Solving Mindset - Translating business requirements into technical solutions
+
+
+🎯 2025 Goals
+✅ Secure first Junior Python Developer position
+🚀 Specialize in: Backend development, API design, or data engineering
+📚 Expand skills in: Cloud technologies, microservices, advanced testing
+
+📬 Let's Connect
+
+📧 Email: gzywicki@gmail.com
+💼 LinkedIn: Grzegorz Żywicki
+🌍 Location: Lublin, Poland
+
+
+"Code is like humor. When you have to explain it, it's bad." - Cory House
+Open to opportunities | Available for projects | Ready to learn

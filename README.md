@@ -2,7 +2,7 @@
 
 I'm a beginner Python developer with a background in sales and data-related work.  
 I aim to combine my knowledge of business processes with technical skills in Python, SQL, and automation.  
-I'm looking for my first job as a **Junior Python Developer** or **Junior RPA/SQL Developer**.
+I'm looking for my first job as a **Junior Python Developer**.
 
 ---
 

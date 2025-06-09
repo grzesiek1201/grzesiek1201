@@ -20,10 +20,6 @@ Tools & DevOps
 
 🔧 Git, Docker | 🧪 pytest, unittest | 🖥️ PyCharm, VS Code
 
-Automation
-
-🤖 Web scraping (Selenium, requests) | 📋 ETL processes
-
 
 🚀 Featured Projects
 📝 Task & Note Manager
@@ -63,7 +59,7 @@ Problem-Solving Mindset - Translating business requirements into technical solut
 
 🎯 2025 Goals
 ✅ Secure first Junior Python Developer position
-🚀 Specialize in: Backend development, API design, or data engineering
+🚀 Specialize in: Backend development
 📚 Expand skills in: Cloud technologies, microservices, advanced testing
 
 📬 Let's Connect

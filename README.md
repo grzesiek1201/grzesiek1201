@@ -10,11 +10,7 @@ Languages & Databases
 
 Web Development
 
-⚡ Flask, Django | 🌐 REST APIs | 🔐 User Authentication
-
-Data & Analysis
-
-📊 Pandas, NumPy, Matplotlib | 📈 Power BI, Excel
+⚡ Django | 🌐 REST APIs | 🔐 User Authentication
 
 Tools & DevOps
 

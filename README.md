@@ -18,6 +18,14 @@ Tools & DevOps
 
 
 🚀 Featured Projects
+
+🎮 Habit Tracker RPG (In Progress)
+Backend-first gamified habit tracker combining productivity and RPG elements.
+
+Tech: Python, Django, PostgreSQL, Redis, Celery, REST API
+Features (planned): User registration (email/Google), task & habit tracking (one-time, recurring, timed, cyclical), RPG elements (avatar, level, EXP, coins, rewards), notifications & integrations, secure authentication, modular backend design for future frontend extensions
+
+
 📝 Task & Note Manager
 Full-stack web application for productivity management
 
@@ -25,24 +33,18 @@ Tech: Flask, PostgreSQL, SQLAlchemy, Bootstrap 5
 Features: User authentication, task prioritization, deadline tracking
 Architecture: MVC pattern with modular backend design
 
+
 💬 Client-Server Chat App
 Real-time messaging application with PostgreSQL backend
 
 Tech: Python sockets, threading, PostgreSQL, JSON
 Features: User registration, multi-client messaging, persistent storage
 
-🎯 Interactive Quiz Game
-Desktop quiz application with advanced game mechanics
-
-Tech: Tkinter, JSON, threading
-Features: Scoring system, lifelines, save/load functionality
-
 
 📈 Currently Learning
 
 FastAPI - Building modern, high-performance APIs
 Docker & CI/CD - Containerization and deployment automation
-AWS Cloud Services - Cloud computing fundamentals
 Advanced Testing - Test-driven development with pytest
 
 
@@ -53,10 +55,12 @@ Data Analysis - Experience with business intelligence and reporting
 Problem-Solving Mindset - Translating business requirements into technical solutions
 
 
-🎯 2025 Goals
+🎯 2025/2026 Goals
+
 ✅ Secure first Junior Python Developer position
 🚀 Specialize in: Backend development
 📚 Expand skills in: Cloud technologies, microservices, advanced testing
+
 
 📬 Let's Connect
 

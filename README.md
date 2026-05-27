@@ -1,73 +1,65 @@
-👋 Hi, I'm Grzegorz!
-Junior Python Developer | Transforming business processes into automated solutions
-I'm a Python developer passionate about building practical applications that solve real-world problems. With a background in business operations, I bring a unique perspective to software development - understanding both the technical implementation and business value.
-🎯 Currently seeking my first role as a Junior Python Developer
+👋 Grzegorz Żywicki | Junior C# / .NET Developer
+
+Backend developer focused on building business-oriented systems using C# / .NET, SQL and Entity Framework Core. Background in business operations helps me translate real workflows into software logic.
+
+Actively seeking Junior C# / .NET Developer role.
 
 🛠️ Tech Stack
-Languages & Databases
 
-🐍 Python | 🗄️ SQL (PostgreSQL, SQLite, MySQL)
+Core:
+C#, .NET (Console Apps, backend systems), SQL
 
-Web Development
+Databases:
+PostgreSQL, SQLite, MySQL, Entity Framework Core
 
-⚡ Django | 🌐 REST APIs | 🔐 User Authentication
+Backend Concepts:
+REST API basics, Layered Architecture, CRUD systems, business logic design
 
-Tools & DevOps
+Tools:
+Git, GitHub, Visual Studio, VS Code
 
-🔧 Git, Docker | 🧪 pytest, unittest | 🖥️ PyCharm, VS Code
+Additional:
+Python (previous experience – backend projects)
 
+🚀 Projects
 
-🚀 Featured Projects
+📊 Mini Accounting System (C#, latest)
+CLI system simulating accounting and sales processes.
 
-🎮 Habit Tracker RPG (In Progress)
-Backend-first gamified habit tracker combining productivity and RPG elements.
+Customer & product management
+Quotation / order workflow logic
+Layered architecture (Domain / Application / Infrastructure)
+SQL database integration (EF Core, migrations)
+Console-based business operations system
 
-Tech: Python, Django, PostgreSQL, Redis, Celery, REST API
-Features (planned): User registration (email/Google), task & habit tracking (one-time, recurring, timed, cyclical), RPG elements (avatar, level, EXP, coins, rewards), notifications & integrations, secure authentication, modular backend design for future frontend extensions
+🎮 Habit Tracker RPG (Python / Django)
+Backend system combining productivity and RPG mechanics.
+Stack: Python, Django, PostgreSQL, Redis, Celery
 
+📝 Task Manager (Python / Flask)
+CRUD web application with authentication and task prioritization.
+Stack: Flask, SQLAlchemy, PostgreSQL
 
-📝 Task & Note Manager
-Full-stack web application for productivity management
+💬 Chat App (Python)
+Socket-based multi-client chat system with persistence.
+Stack: Python sockets, threading, PostgreSQL
 
-Tech: Flask, PostgreSQL, SQLAlchemy, Bootstrap 5
-Features: User authentication, task prioritization, deadline tracking
-Architecture: MVC pattern with modular backend design
+📚 Currently Learning
+ASP.NET Core Web API
+Clean Architecture / DDD fundamentals
+Entity Framework Core (advanced usage)
+Unit testing (xUnit)
+Backend performance & architecture patterns
+💼 Background
+Business operations & workflow optimization
+Translating business requirements into system design
+Data handling and reporting experience
+🎯 Goal
 
+Junior C# / .NET Backend Developer role in production environment (API / business systems).
 
-💬 Client-Server Chat App
-Real-time messaging application with PostgreSQL backend
+📬 Contact
 
-Tech: Python sockets, threading, PostgreSQL, JSON
-Features: User registration, multi-client messaging, persistent storage
-
-
-📈 Currently Learning
-
-FastAPI - Building modern, high-performance APIs
-Docker & CI/CD - Containerization and deployment automation
-Advanced Testing - Test-driven development with pytest
-
-
-💼 Professional Background
-
-Business Operations Experience - Understanding of workflow optimization and process automation
-Data Analysis - Experience with business intelligence and reporting
-Problem-Solving Mindset - Translating business requirements into technical solutions
-
-
-🎯 2025/2026 Goals
-
-✅ Secure first Junior Python Developer position
-🚀 Specialize in: Backend development
-📚 Expand skills in: Cloud technologies, microservices, advanced testing
-
-
-📬 Let's Connect
-
-📧 Email: gzywicki@gmail.com
-💼 LinkedIn: Grzegorz Żywicki
-🌍 Location: Lublin, Poland
-
-
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-Open to opportunities | Available for projects | Ready to learn
+Email: gzywicki@gmail.com
+LinkedIn: [Grzegorz Żywicki](https://www.linkedin.com/in/grzegorz-%C5%BCywicki/)
+Location: Lublin, Poland

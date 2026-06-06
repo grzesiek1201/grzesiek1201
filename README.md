@@ -23,8 +23,8 @@ Python (previous experience – backend projects)
 
 🚀 Projects
 
-📊 Mini Accounting System (C#, latest)
-CLI system simulating accounting and sales processes.
+📊 Sales and Accounting System (C#, latest)
+CLI system simulating sales and accounting   processes.
 
 Customer & product management
 Quotation / order workflow logic
